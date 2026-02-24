@@ -60,42 +60,62 @@
 
 ---
 
-# 🚀 Professional Overview
+---
+
+<div align="center">
+
+## 🚀 Professional Overview
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c3e50,100:4ca1af&height=2&section=header"/>
+
+</div>
 
 <br>
 
-<table width="100%">
+<div align="center">
+
+<table width="80%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### Core
+### 🧠 Core
 
-- Full Stack Development  
-- REST APIs  
-- System Design  
-- SQL / NoSQL  
+▪ Full Stack Development  
+▪ REST API Architecture  
+▪ System Design Principles  
+▪ SQL & NoSQL Databases  
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="left">
 
-### Focus
+### 🎯 Focus
 
-- Scalable Applications  
-- Applied AI  
-- Clean Architecture  
-- Performance Optimization  
+▪ Scalable Applications  
+▪ Applied AI Integration  
+▪ Clean Architecture  
+▪ Performance Optimization  
 
 </td>
 
 </tr>
 </table>
 
----
+</div>
+
+<br>
 
 <div align="center">
 
-### Build stuffs that matters.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4ca1af,100:2c3e50&height=2&section=header"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### *Build stuffs that matters.*
 
 </div>
