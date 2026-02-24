@@ -62,26 +62,8 @@
 
 ---
 
-
-<br>
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:0072FF,100:8E2DE2&height=4&section=header"/>
-
-<br>
-
-<h2>
-<span style="background: linear-gradient(90deg,#00C6FF,#0072FF,#8E2DE2);
--webkit-background-clip: text;
-color: transparent;
-font-weight: 600;">
-Build stuffs that matters.
-</span>
-</h2>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,50:0072FF,100:00C6FF&height=4&section=header"/>
+<img src="https://img.shields.io/badge/Build%20stuffs%20that%20matters.-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=2F81F7"/>
 
 </div>
