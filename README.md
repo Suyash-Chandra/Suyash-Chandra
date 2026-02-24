@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000000,100:0f0f0f&text=%3E%20whoami&fontColor=00FF41&fontSize=30&fontAlignY=35&animation=fadeIn"/>
-
 <h1>
-<code style="color:#00FF41; font-size:34px;">
-Suyash_Chandra
+<code style="font-size:34px; color:#e6edf3;">
+Suyash Chandra
 </code>
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=450&lines=full_stack_engineer;system_builder;ai_explorer;always_learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=full-stack+engineer;system-focused;building+scalable+things" />
 
+</div>
 
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2f81f7,100:58a6ff&height=2&section=header"/>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Full+Stack;AI%2FML;Web3;Developer+by+Mind+,+Entrepreneur+by+Heart;" />
 
