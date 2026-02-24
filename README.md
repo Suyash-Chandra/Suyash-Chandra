@@ -67,7 +67,11 @@
 
 <div align="center">
 
-## 📊 Activity & Metrics
+---
+
+<div align="center">
+
+## 📊 Development Dashboard
 
 </div>
 
@@ -75,17 +79,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suyash-Chandra&bg_color=00000000&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 
 </div>
 
@@ -93,7 +89,15 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Suyash-Chandra&color=blue&style=flat-square"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2F81F7&style=flat"/>
 
 </div>
 
