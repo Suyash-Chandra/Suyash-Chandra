@@ -14,79 +14,77 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🎨 Frontend
 
-<div align="center">
+<br>
+
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma&perline=4" />
-</div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🖥 Backend
 
-<div align="center">
+<br>
+
 <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c&perline=4" />
-</div>
 
 </td>
 </tr>
 </table>
 
-
+<br><br>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🗄 Database
 
-<div align="center">
+<br>
+
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
-</div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🔗 Web3
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=solidity&perline=1" />
 <br>
-Ethereum • Solana
-</div>
+
+<img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" />
+&nbsp;&nbsp;&nbsp;
+<img height="48" src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=026" />
 
 </td>
 </tr>
 </table>
 
-<br>
+<br><br>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-### 🛠 Tools & Version Control
+### 🛠 Tools
 
-<div align="center">
+<br>
+
 <img src="https://skillicons.dev/icons?i=git,github,linux&perline=3" />
-</div>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🔬 Miscellaneous
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" />
 <br>
-Embedded Systems • Linux Environment
-</div>
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" />
 
 </td>
 </tr>
@@ -102,22 +100,22 @@ Embedded Systems • Linux Environment
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Core
+### Core
 
 - Full Stack Development  
 - REST APIs  
-- System Structuring  
+- System Design  
 - SQL / NoSQL  
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎯 Focus
+### Focus
 
 - Scalable Applications  
 - Applied AI  
-- Web3 Exploration  
+- Web3  
 - Clean Architecture  
 
 </td>
