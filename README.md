@@ -44,25 +44,7 @@
 
 </td>
 </tr>
-</table>
 
-<br><br>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-### 🔗 Web3
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=ethereum,solidity,solana&perline=4" />
-<br><br>
-Ethereum • Solana
-
-</td>
-
-<td width="33%" align="center">
 
 ### 🛠 Tools
 
@@ -71,18 +53,8 @@ Ethereum • Solana
 <img src="https://skillicons.dev/icons?i=git,github,linux&perline=4" />
 
 </td>
-
-<td width="33%" align="center">
-
-### 🔬 Misc
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=4" />
-
-</td>
-</tr>
 </table>
+
 
 ---
 
