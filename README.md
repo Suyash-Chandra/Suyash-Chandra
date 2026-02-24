@@ -85,7 +85,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suyash-Chandra&bg_color=00000000&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true"/>
 
 </div>
 
@@ -93,7 +93,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Suyash-Chandra&color=blue&style=flat-square"/>
 
 </div>
 
