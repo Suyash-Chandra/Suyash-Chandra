@@ -2,7 +2,7 @@
 
 # Suyash Chandra
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Explorer;System-Oriented+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Full+Stack;AI%2FML;Web3;Developer+by+Mind+,+Entrepreneur+by+Heart;" />
 
 </div>
 
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-## 🌐 Connect
+## 🌐 Connect with me!
 
 <br>
 
@@ -104,6 +104,7 @@
 </div>
 
 <br>
+<hr>
 
 <div align="center">
 
