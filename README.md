@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:1f1c2c&height=150&section=header&text=Suyash%20Chandra&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Suyash%20Chandra&fontSize=42&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
 
+<br>
 
 
 
