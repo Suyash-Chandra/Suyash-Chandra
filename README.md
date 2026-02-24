@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Suyash%20Chandra&fontSize=42&fontAlignY=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:000000,100:0f0f0f&text=%3E%20whoami&fontColor=00FF41&fontSize=30&fontAlignY=35&animation=fadeIn"/>
 
-<br>
+<h1>
+<code style="color:#00FF41; font-size:34px;">
+Suyash_Chandra
+</code>
+</h1>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=450&lines=full_stack_engineer;system_builder;ai_explorer;always_learning" />
 
 
 
