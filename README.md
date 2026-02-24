@@ -67,25 +67,47 @@
 
 <div align="center">
 
-## 🌐 Connect With Me
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:1F6FEB&height=3&section=header"/>
+<div align="center">
+
+## 🌐 Connect
 
 <br>
 
+<table width="60%">
+<tr>
+
+<td width="50%" align="center">
+
 <a href="YOUR_LINKEDIN" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Let's%20Connect" />
-</a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="YOUR_TWITTER" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&label=Follow%20Along" />
-</a>
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:2F81F7&height=3&section=header"/>
+<sub>Network & Opportunities</sub>
+
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+<a href="YOUR_TWITTER" target="_blank">
+
+<img src="https://img.shields.io/badge/Twitter-Build%20in%20Public-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=111111"/>
+
+<br><br>
+
+<sub>Thoughts & Updates</sub>
+
+</a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
