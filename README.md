@@ -1,75 +1,117 @@
-<!-- ONE PIECE THEMED GITHUB PROFILE -->
+
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1e3c72,50:2a5298,100:1e3c72&text=SUYASH%20CHANDRA&fontSize=48&fontColor=F8D866&animation=fadeIn&fontAlignY=38"/>
+<h1 style="letter-spacing:3px;">
+S U Y A S H &nbsp; C H A N D R A
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Trebuchet+MS&size=22&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=650&lines=Captain+of+Code;Future+King+of+Full+Stack;AI+Explorer;System+Architect" />
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00ff99&center=true&vCenter=true&width=500&lines=Full+Stack;AI%2FML;Web3;Developer+by+Mind+,+Entrepreneur+by+Heart;" />
+
 
 </div>
 
 ---
 
-<div align="center">
+# ⚡ Languages, Tools & Technologies
 
-<img src="https://media.giphy.com/media/tuCFp8rod0x3O/giphy.gif" width="100%"/>
+<br>
 
-</div>
+<table width="100%">
+<tr>
+
+<td width="25%" align="center">
+
+### 🎨 Development
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma&perline=8" />
+
+</td>
+
+<td width="25%" align="center">
+
+### 🖥 Languages
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c&perline=4" />
+
+</td>
+
+<td width="25%" align="center">
+
+### 🗄 Database
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
+
+</td>
+
+<td width="25%" align="center">
+
+### 🛠 Tools
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=git,github,linux&perline=4" />
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🏴‍☠️ Wanted Status
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
 ---
 
-# ⚔️ Pirate Crew Skills
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma,nodejs,python,cpp,c,mysql,mongodb,git,github,linux" />
+## 🌐 Connect with me!
 
-</div>
+<br>
 
----
+<table width="60%">
+<tr>
 
-# 🌊 Grand Line Activity
+<td width="50%" align="center">
 
-<div align="center">
+<a href="YOUR_LINKEDIN" target="_blank">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 
-</div>
+<br>
 
----
-
-# 🐌 Transponder Snail
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-Marine%20Intel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<a href="YOUR_TWITTER">
-<img src="https://img.shields.io/badge/Twitter-World%20Broadcast-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<td width="50%" align="center">
+
+<a href="YOUR_TWITTER" target="_blank">
+
+<img src="https://img.shields.io/badge/Twitter-Build%20in%20Public-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=111111"/>
+
+<br>
+
 </a>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
----
+<br>
+<hr>
 
 <div align="center">
 
-### ⚓ "Build stuffs that matters."
+<img src="https://img.shields.io/badge/Build%20stuffs%20that%20matters.-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=2F81F7"/>
 
 </div>
