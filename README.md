@@ -61,6 +61,35 @@
 ---
 
 ---
+<br>
+
+<br>
+
+<div align="center">
+
+## 🌐 Connect With Me
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F81F7,100:1F6FEB&height=3&section=header"/>
+
+<br>
+
+<a href="YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=Let's%20Connect" />
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_TWITTER" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&label=Follow%20Along" />
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:2F81F7&height=3&section=header"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
