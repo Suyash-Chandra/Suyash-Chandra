@@ -30,15 +30,15 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c&perline=8" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c&perline=4" />
 
 </td>
 </tr>
-</table>
 
-<br><br>
 
-<table width="100%">
+
+
+
 <tr>
 <td width="50%" valign="top" align="center">
 
