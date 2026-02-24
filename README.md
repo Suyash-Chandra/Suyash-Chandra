@@ -64,43 +64,9 @@
 
 <div align="center">
 
-## 🚀 Professional Overview
+## 🚀 Engineering Direction
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c3e50,100:4ca1af&height=2&section=header"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<table width="80%">
-<tr>
-
-<td width="50%" valign="top" align="left">
-
-### 🧠 Core
-
-▪ Full Stack Development  
-▪ WEB3 - Solana/ETH dev  
-▪ System Design Principles  
-▪ SQL & NoSQL Databases  
-
-</td>
-
-<td width="50%" valign="top" align="left">
-
-### 🎯 Focus
-
-▪ Scalable Applications  
-▪ Applied AI Integration  
-▪ Clean Architecture  
-▪ Performance Optimization  
-
-</td>
-
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=3&section=header"/>
 
 </div>
 
@@ -108,7 +74,24 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4ca1af,100:2c3e50&height=2&section=header"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems;Designing+Clean+Architectures;Integrating+AI+Into+Real+Applications;Optimizing+Performance" />
+
+</div>
+
+<br>
+
+### 🧠 What Drives My Work
+
+- **Scalability first** — systems that grow without breaking  
+- **Clean architecture** — maintainable and structured code  
+- **Performance awareness** — efficient logic and optimized workflows  
+- **Practical AI integration** — not hype, real implementation  
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072FF,100:00C6FF&height=3&section=header"/>
 
 </div>
 
@@ -116,6 +99,6 @@
 
 <div align="center">
 
-### *Build stuffs that matters.*
+### ✨ *Build stuffs that matters.*
 
 </div>
