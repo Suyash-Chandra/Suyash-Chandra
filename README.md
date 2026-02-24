@@ -1,40 +1,51 @@
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%7C+Web3+Explorer;Building+Crazy+Ideas;Music+Producer+%F0%9F%8E%B5" /> </div>
+<div align="center">⚡ Suyash Chandra ⚡</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Building%20the%20Future&fontSize=40&fontColor=ffffff&animation=fadeIn" /> </div>
+🧠 Who Am I?
+Full Stack Developer
+AI/ML Explorer
+Web3 Experimenter
+Creative Technologist
+Music Producer 🎧
 
-🚀 About Me
+I don’t just write code.
+I build systems, experiment with ideas, and turn concepts into working products.
 
-+ Full Stack Developer
-+ Exploring AI/ML & Web3
-+ Builder of ambitious projects
-+ Music producer on the side 🎧
+Currently obsessed with:
 
-🛠️ Tech Stack
+Intelligent systems
 
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </div>
+Real-time platforms
 
-📊 GitHub Stats
+Scalable architectures
 
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" /> </div>
+Startup-level product thinking
 
-📈 Activity Graph
+🛠 Tech Arsenal
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,cpp,c,js,react,nodejs,html,css,mysql,git,github" /> </div>
+📊 GitHub Intelligence
+<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" /> </div>
+🚀 What I'm Building
 
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" /> </div>
+🤖 AI-powered applications
 
-🌱 Current Focus:
+🌐 Full stack production-ready systems
 
-🤖 AI-driven applications
+🔗 Web3 side experiments
 
-🌐 Scalable full-stack platforms
+📊 Data-driven tools
 
-🔗 Web3 experiments
+🎯 High-impact personal projects
 
-🚀 Startup-level product building
+🎵 Creative Side
 
-🎵 Beyond Code:
-When I’m not debugging production errors…
-I’m producing music.
+Coding builds logic.
+Music builds emotion.
 
-⚡ Personal Motto
-<div align="center">
-Build fast. Learn faster. Stay dangerous.
-</div>
+Both require precision.
+Both require obsession.
 
+🌍 Connect
+<div align="center"> <a href="YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="YOUR_TWITTER"> <img src="https://img.shields.io/badge/Twitter-Building_in_Public-black?style=for-the-badge&logo=x&logoColor=white"/> </a> </div>
+🧭 Philosophy
+
+Build things that scare you a little.
