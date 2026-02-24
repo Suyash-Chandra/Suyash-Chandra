@@ -56,7 +56,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=solidity&perline=4" />
+<img src="https://skillicons.dev/icons?i=ethereum,solidity,solana&perline=4" />
 <br><br>
 Ethereum • Solana
 
