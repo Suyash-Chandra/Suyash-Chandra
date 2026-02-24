@@ -14,17 +14,17 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" align="center">
 
 ### 🎨 Frontend
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma&perline=4" />
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="33%" align="center">
 
 ### 🖥 Backend
 
@@ -33,32 +33,14 @@
 <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c&perline=4" />
 
 </td>
-</tr>
 
-
-
-
-
-<tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" align="center">
 
 ### 🗄 Database
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-### 🔗 Web3
-
-<br>
-
-<img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" />
-&nbsp;&nbsp;&nbsp;
-<img height="48" src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=026" />
 
 </td>
 </tr>
@@ -68,23 +50,35 @@
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="33%" align="center">
+
+### 🔗 Web3
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=solidity&perline=4" />
+<br><br>
+Ethereum • Solana
+
+</td>
+
+<td width="33%" align="center">
 
 ### 🛠 Tools
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,linux&perline=3" />
+<img src="https://skillicons.dev/icons?i=git,github,linux&perline=4" />
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="33%" align="center">
 
-### 🔬 Miscellaneous
+### 🔬 Misc
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=2" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=4" />
 
 </td>
 </tr>
