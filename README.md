@@ -1,6 +1,21 @@
+
 <div align="center">
 
-# Suyash Chandra
+<h1>
+<span style="
+background: linear-gradient(90deg,#58A6FF,#8E2DE2);
+-webkit-background-clip: text;
+color: transparent;
+font-weight: 700;
+letter-spacing: 2px;
+">
+SUYASH CHANDRA
+</span>
+</h1>
+
+<sub style="color: #8b949e;">Full Stack Engineer</sub>
+
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Full+Stack;AI%2FML;Web3;Developer+by+Mind+,+Entrepreneur+by+Heart;" />
 
