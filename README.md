@@ -20,7 +20,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma&perline=8" />
 
 </td>
 
@@ -30,7 +30,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c&perline=4" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c&perline=8" />
 
 </td>
 </tr>
