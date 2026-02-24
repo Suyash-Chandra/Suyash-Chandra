@@ -63,11 +63,7 @@
 ---
 <br>
 
-<br>
 
-<div align="center">
-
-<br>
 
 <div align="center">
 
@@ -84,9 +80,7 @@
 
 <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
 
-<br><br>
-
-<sub>Network & Opportunities</sub>
+<br>
 
 </a>
 
@@ -98,9 +92,7 @@
 
 <img src="https://img.shields.io/badge/Twitter-Build%20in%20Public-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=111111"/>
 
-<br><br>
-
-<sub>Thoughts & Updates</sub>
+<br>
 
 </a>
 
