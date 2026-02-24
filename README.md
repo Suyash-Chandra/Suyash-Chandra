@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%"/>
+
 <h1>
-<code style="font-size:34px; color:#e6edf3;">
-Suyash Chandra
-</code>
+<code style="color:#00FF41;">Suyash Chandra</code>
 </h1>
+
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=full-stack+engineer;system-focused;building+scalable+things" />
 
