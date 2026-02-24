@@ -2,7 +2,7 @@
 
 # Suyash Chandra
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Explorer;Web3+Experimenter" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Explorer;System-Oriented+Engineer" />
 
 </div>
 
@@ -14,7 +14,8 @@
 
 <table width="100%">
 <tr>
-<td width="33%" align="center">
+
+<td width="25%" align="center">
 
 ### 🎨 Frontend
 
@@ -24,7 +25,7 @@
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🖥 Backend
 
@@ -34,7 +35,7 @@
 
 </td>
 
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🗄 Database
 
@@ -43,8 +44,8 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
 
 </td>
-</tr>
 
+<td width="25%" align="center">
 
 ### 🛠 Tools
 
@@ -53,8 +54,9 @@
 <img src="https://skillicons.dev/icons?i=git,github,linux&perline=4" />
 
 </td>
-</table>
 
+</tr>
+</table>
 
 ---
 
@@ -64,6 +66,7 @@
 
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
 ### Core
@@ -81,10 +84,11 @@
 
 - Scalable Applications  
 - Applied AI  
-- Web3  
 - Clean Architecture  
+- Performance Optimization  
 
 </td>
+
 </tr>
 </table>
 
