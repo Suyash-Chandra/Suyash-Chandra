@@ -6,17 +6,10 @@
 S U Y A S H &nbsp; C H A N D R A
 </h1>
 
-<sub style="color:#8b949e;">Full Stack Engineer</sub>
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00ff99&center=true&vCenter=true&width=500&lines=Full+Stack;AI%2FML;Web3;Developer+by+Mind+,+Entrepreneur+by+Heart;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00ff99&center=true&vCenter=true&width=500&lines=Full+Stack;AI%2FML;Web3;Developer+by+Mind+,+Entrepreneur+by+Heart;" />
 
-
-
-
-
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Full+Stack;AI%2FML;Web3;Developer+by+Mind+,+Entrepreneur+by+Heart;" />
 
 </div>
 
