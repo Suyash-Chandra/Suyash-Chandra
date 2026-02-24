@@ -63,10 +63,11 @@
 ---
 
 <div align="center">
+---
 
-## 🚀 Engineering Direction
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,100:0072FF&height=3&section=header"/>
+## 📊 Activity & Metrics
 
 </div>
 
@@ -74,24 +75,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Systems;Designing+Clean+Architectures;Integrating+AI+Into+Real+Applications;Optimizing+Performance" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165"/>
 
-</div>
-
-<br>
-
-### 🧠 What Drives My Work
-
-- **Scalability first** — systems that grow without breaking  
-- **Clean architecture** — maintainable and structured code  
-- **Performance awareness** — efficient logic and optimized workflows  
-- **Practical AI integration** — not hype, real implementation  
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0072FF,100:00C6FF&height=3&section=header"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true" height="165"/>
 
 </div>
 
@@ -99,6 +85,22 @@
 
 <div align="center">
 
-### ✨ *Build stuffs that matters.*
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Build stuffs that matters.
 
 </div>
