@@ -17,7 +17,7 @@
 
 <td width="25%" align="center">
 
-### 🎨 Frontend
+### 🎨 Development
 
 <br>
 
@@ -27,7 +27,7 @@
 
 <td width="25%" align="center">
 
-### 🖥 Backend
+### 🖥 Languages
 
 <br>
 
@@ -82,7 +82,7 @@
 ### 🧠 Core
 
 ▪ Full Stack Development  
-▪ REST API Architecture  
+▪ WEB3 - Solana/ETH dev  
 ▪ System Design Principles  
 ▪ SQL & NoSQL Databases  
 
