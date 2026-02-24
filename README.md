@@ -1,46 +1,89 @@
 <div align="center">
 
 # Suyash Chandra
-
-**Full Stack Developer | AI/ML Explorer | System-Focused Engineer**
+**Full Stack Developer | AI/ML Explorer | System-Oriented Engineer**
 
 </div>
 
 ---
 
-## 👨‍💻 About
+# ⚡ Languages, Tools & Technologies
 
-Full stack developer with a strong focus on scalable systems, backend architecture, and AI-driven applications.  
-I enjoy building structured, production-oriented projects and continuously refining technical depth.
+<table>
+<tr>
+<td width="50%">
 
----
-
-## ⚙️ Technical Stack
+### Frontend
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,nodejs,html,css,mysql,git,github" />
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </div>
 
+</td>
+<td width="50%">
+
+### Backend
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c" />
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Database
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</div>
+
+</td>
+<td width="50%">
+
+### Tools & Version Control
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github" />
+</div>
+
+</td>
+</tr>
+</table>
+
 ---
+
+# 🚀 Professional Overview
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🧠 Core Competencies
 
 - Full Stack Web Development  
-- REST API Design & Integration  
-- Backend Logic & System Design  
+- REST API Design  
+- Backend Logic & System Structuring  
+- Database Design (Relational)  
+- Problem Solving with C/C++  
 - AI/ML Fundamentals  
-- Database Modeling  
 
----
+</td>
+<td width="50%">
 
-## 🚀 Current Focus
+### 🎯 Current Focus
 
 - Building scalable full-stack applications  
 - Exploring applied AI systems  
-- Improving performance and architecture design  
-- Experimenting with Web3 concepts  
+- Strengthening backend architecture  
+- Writing cleaner, production-ready code  
+- Learning system design principles  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -51,13 +94,5 @@ I enjoy building structured, production-oriented projects and continuously refin
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINK)
 
 [![Twitter](https://img.shields.io/badge/Twitter-Updates-black?style=flat-square&logo=x&logoColor=white)](YOUR_LINK)
-
-</div>
-
----
-
-<div align="center">
-
-<sub>Focused on building systems that scale.</sub>
 
 </div>
