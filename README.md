@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:000000,50:0b1f0b,100:000000&text=Suyash%20Chandra&fontColor=00ff99&fontSize=40&fontAlignY=38&animation=fadeIn"/>
 
-<h1>
-<code style="color:#00FF41;">Suyash Chandra</code>
-</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00ff99&center=true&vCenter=true&width=500&lines=full-stack+engineer;building+scalable+systems;ai+%7C+backend+%7C+performance" />
+
+</div>
 
 
 
