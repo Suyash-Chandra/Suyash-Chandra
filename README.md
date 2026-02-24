@@ -1,17 +1,8 @@
-
 <div align="center">
 
-<h1>
-<span style="
-background: linear-gradient(90deg,#58A6FF,#8E2DE2);
--webkit-background-clip: text;
-color: transparent;
-font-weight: 700;
-letter-spacing: 2px;
-">
-SUYASH CHANDRA
-</span>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,50:928DAB,100:1f1c2c&height=150&section=header&text=Suyash%20Chandra&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+
 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Full+Stack;AI%2FML;Web3;Developer+by+Mind+,+Entrepreneur+by+Heart;" />
