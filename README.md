@@ -21,7 +21,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma&perline=4" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma&perline=8" />
 
 </td>
 
