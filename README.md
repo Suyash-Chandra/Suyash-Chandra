@@ -48,7 +48,7 @@ S U Y A S H &nbsp; C H A N D R A
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb&perline=4" />
 
 </td>
 
