@@ -1,14 +1,22 @@
-
-
 <div align="center">
 
-<h1 style="letter-spacing:3px;">
-S U Y A S H &nbsp; C H A N D R A
-</h1>
+# Hey 👋 I'm Suyash Chandra
 
+### Full Stack Developer • AI/ML Enthusiast • Web3 Explorer
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00FF99&center=true&width=650&lines=Building+Products+that+Matter;AI+%7C+Web+%7C+Web3;Turning+Ideas+into+Reality" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00ff99&center=true&vCenter=true&width=500&lines=Full+Stack;AI%2FML;Web3;Developer+by+Mind+,+Entrepreneur+by+Heart;" />
+<br>
+
+<img src="https://img.shields.io/badge/Open_Source-Lover-00ff99?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI%2FML-Explorer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web3-Learning-orange?style=for-the-badge"/>
+
+<br><br>
+
+> *Developer by Mind. Entrepreneur by Heart.*
+
+</div>
 
 
 </div>
