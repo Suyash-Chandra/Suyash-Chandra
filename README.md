@@ -1,62 +1,80 @@
-
+<!-- =========================================================
+     SUYASH CHANDRA · github.com/[your-username]
+     ========================================================= -->
 
 <div align="center">
 
-<h1 style="letter-spacing:3px;">
-S U Y A S H &nbsp; C H A N D R A
-</h1>
+```
+ ░██████╗██╗░░░██╗██╗░░░██╗░█████╗░░██████╗██╗░░██╗
+ ██╔════╝██║░░░██║╚██╗░██╔╝██╔══██╗██╔════╝██║░░██║
+ ╚█████╗░██║░░░██║░╚████╔╝░███████║╚█████╗░███████║
+ ░╚═══██╗██║░░░██║░░╚██╔╝░░██╔══██║░╚═══██╗██╔══██║
+ ██████╔╝╚██████╔╝░░░██║░░░██║░░██║██████╔╝██║░░██║
+ ╚═════╝░░╚═════╝░░░░╚═╝░░░╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝
+ 
+          C H A N D R A
+```
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=1200&color=7C3AED&center=true&vCenter=true&width=480&lines=Full+Stack+%2F+AI%E2%80%93ML+%2F+Web3;Builder+by+nature%2C+founder+by+instinct.;Turning+ideas+into+infrastructure." />
 
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00ff99&center=true&vCenter=true&width=500&lines=Full+Stack;AI%2FML;Web3;Developer+by+Mind+,+Entrepreneur+by+Heart;" />
-
+[![](https://img.shields.io/badge/-Full%20Stack-0D1117?style=flat-square&logoColor=22D3EE&logo=stackshare&labelColor=1E293B&color=1E293B)](/)
+[![](https://img.shields.io/badge/-AI%20%2F%20ML-0D1117?style=flat-square&logo=openai&logoColor=22D3EE&labelColor=1E293B&color=1E293B)](/)
+[![](https://img.shields.io/badge/-Web3-0D1117?style=flat-square&logo=ethereum&logoColor=22D3EE&labelColor=1E293B&color=1E293B)](/)
+[![](https://img.shields.io/badge/-Open%20to%20Collaborate-22D3EE?style=flat-square&logoColor=0D1117&labelColor=22D3EE&color=22D3EE)](/)
 
 </div>
 
----
+<br/>
 
-# ⚡ Languages, Tools & Technologies
+<!-- ── ABOUT ──────────────────────────────────────────────── -->
 
-<br>
+```ts
+const suyash = {
+  role     : "Full Stack · AI/ML · Web3 Developer",
+  focus    : ["shipping products", "building systems", "writing clean code"],
+  mindset  : "Developer by mind, entrepreneur by heart",
+  currently: "Building things that actually matter",
+};
+```
+
+<br/>
+
+<!-- ── STACK ───────────────────────────────────────────────── -->
+
+## &nbsp;`// stack`
 
 <table width="100%">
 <tr>
 
-<td width="25%" align="center">
+<td valign="top" width="25%">
 
-### 🎨 Development
+**`[ frontend ]`**
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,figma&perline=4" />
 
 </td>
 
-<td width="25%" align="center">
+<td valign="top" width="25%">
 
-### 🖥 Languages
-
-<br>
+**`[ languages ]`**
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,cpp,c&perline=4" />
 
 </td>
 
-<td width="25%" align="center">
+<td valign="top" width="25%">
 
-### 🗄 Database
-
-<br>
+**`[ databases ]`**
 
 <img src="https://skillicons.dev/icons?i=mysql,supabase,mongodb&perline=4" />
 
 </td>
 
-<td width="25%" align="center">
+<td valign="top" width="25%">
 
-### 🛠 Tools
-
-<br>
+**`[ tools ]`**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux&perline=4" />
 
@@ -65,53 +83,56 @@ S U Y A S H &nbsp; C H A N D R A
 </tr>
 </table>
 
----
+<br/>
 
----
+<!-- ── STATS ─────────────────────────────────────────────── -->
+
+## &nbsp;`// metrics`
 
 <div align="center">
 
-## 🌐 Connect with me!
-
-<br>
-
-<table width="60%">
-<tr>
-
-<td width="50%" align="center">
-
-<a href="YOUR_LINKEDIN" target="_blank">
-
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
-
-<br>
-
-</a>
-
-</td>
-
-<td width="50%" align="center">
-
-<a href="YOUR_TWITTER" target="_blank">
-
-<img src="https://img.shields.io/badge/Twitter-Build%20in%20Public-111111?style=for-the-badge&logo=x&logoColor=white&labelColor=111111"/>
-
-<br>
-
-</a>
-
-</td>
-
-</tr>
-</table>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=22D3EE&text_color=94A3B8&ring_color=7C3AED" />
+&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=94A3B8" />
 
 </div>
 
-<br>
-<hr>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=F1F5F9&sideLabels=94A3B8&sideNums=7C3AED&dates=475569" />
+
+</div>
+
+<br/>
+
+<!-- ── CONNECT ───────────────────────────────────────────── -->
+
+## &nbsp;`// connect`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Build%20stuffs%20that%20matters.-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=2F81F7"/>
+<a href="YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="YOUR_TWITTER">
+  <img src="https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ── FOOTER ────────────────────────────────────────────── -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=80&section=footer&fontSize=0" />
+
+*`// build things that matter.`*
 
 </div>
