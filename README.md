@@ -1,25 +1,81 @@
-<div align="center">
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-# Hey 👋 I'm Suyash Chandra
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
 
-### Full Stack Developer • AI/ML Enthusiast • Web3 Explorer
+    <linearGradient id="glassStroke" x1="0" y1="0" x2="800" y2="200">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.6)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.1)"/>
+    </linearGradient>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=1000&color=00FF99&center=true&width=650&lines=Building+Products+that+Matter;AI+%7C+Web+%7C+Web3;Turning+Ideas+into+Reality" />
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="35"/>
+    </filter>
+  </defs>
 
-<br>
+  <!-- Background -->
+  <rect width="1200" height="320" fill="url(#bg)"/>
 
-<img src="https://img.shields.io/badge/Open_Source-Lover-00ff99?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%2FML-Explorer-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web3-Learning-orange?style=for-the-badge"/>
+  <!-- Glow -->
+  <circle cx="250" cy="70" r="120" fill="#00FF99" opacity="0.25" filter="url(#blur)"/>
+  <circle cx="950" cy="250" r="100" fill="#3B82F6" opacity="0.25" filter="url(#blur)"/>
 
-<br><br>
+  <!-- Glass Card -->
+  <rect
+    x="150"
+    y="55"
+    width="900"
+    height="210"
+    rx="32"
+    fill="rgba(255,255,255,0.08)"
+    stroke="rgba(255,255,255,0.18)"
+    stroke-width="1.5"
+  />
 
-> *Developer by Mind. Entrepreneur by Heart.*
+  <!-- Name -->
+  <text
+    x="600"
+    y="125"
+    text-anchor="middle"
+    fill="white"
+    font-size="46"
+    font-family="JetBrains Mono, monospace"
+    font-weight="700"
+    letter-spacing="8">
 
-</div>
+    SUYASH CHANDRA
+  </text>
 
+  <!-- Subtitle -->
+  <text
+    x="600"
+    y="170"
+    text-anchor="middle"
+    fill="#00FF99"
+    font-size="24"
+    font-family="Inter, sans-serif">
 
-</div>
+    Full Stack • AI/ML • Web3
+  </text>
+
+  <!-- Quote -->
+  <text
+    x="600"
+    y="215"
+    text-anchor="middle"
+    fill="#cbd5e1"
+    font-size="20"
+    font-style="italic"
+    font-family="Inter, sans-serif">
+
+    Developer by Mind • Entrepreneur by Heart
+  </text>
+
+</svg>
 
 ---
 
